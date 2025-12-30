@@ -42,7 +42,7 @@ Dashboard map & visualization examples:
 Explores mobile money & payment transactions trends in Ghana — financial behavior, volume patterns, and key insights.
 
 Sample financial trend views:
-
+![image alt](https://github.com/rubyaddo789/Ruby-Analyst/blob/a8d1333b724e1f05f4a031a5abf1835642317bf5/Ghana%20pay%20.png)
 
 
 **Tools:** Power BI, Excel, MySQL  
