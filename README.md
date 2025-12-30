@@ -1,4 +1,4 @@
-# Hi, I'm Ruby Addo 👋
+# Hi, I'm Ruby Addo 👋 ![image alt](https://github.com/rubyaddo789/Ruby-Analyst/blob/1595734ef97d454b0eed8e3c31293bbb854daf5e/My%20photo.png)
 
 **Data Analyst** | Transforming data into clear, actionable stories 📊
 
