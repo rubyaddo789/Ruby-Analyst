@@ -52,7 +52,7 @@ Sample financial trend views:
 Healthcare-focused dashboard analyzing laboratory test results, trends, and diagnostic performance metrics.
 
 Healthcare visualization examples:
-
+![image alt](https://github.com/rubyaddo789/Ruby-Analyst/blob/404a0377c6ac1ccab2a711ad7feb7a2b19b02c02/Medylab%20.png)
 
 **Tools:** Power BI, MySQL  
 [View Live Dashboard →](https://rubyaddo789.github.io/RubyAddo-theanalyst.github.io/)
