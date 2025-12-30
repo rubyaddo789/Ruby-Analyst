@@ -32,6 +32,7 @@ Here are some dashboard highlights:
 Urban transport & connectivity insights for Nairobi — visualizing traffic patterns, public transport usage, and key bottlenecks.
 
 Dashboard map & visualization examples:
+![image alt](https://github.com/rubyaddo789/Ruby-Analyst/blob/866880030e14238f5f208e5e8f483c3fd6ac9fb9/icons.png)
 
 
 
