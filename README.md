@@ -21,7 +21,7 @@ Here are some of my live interactive dashboards — explore them directly!
 Analyzes the impact of social media usage on mental well-being, including screen time, sleep quality, stress, happiness, and platform-specific effects.
 
 Here are some dashboard highlights:
-
+![image alt](
 
 
 
