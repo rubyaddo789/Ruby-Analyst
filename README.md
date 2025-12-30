@@ -10,7 +10,8 @@ I specialize in **Python**, **MySQL**, **Power BI**, **Excel**, and introductory
 - **SQL / MySQL** — Advanced queries, joins, window functions, optimization  
 - **Power BI** — Interactive dashboards, DAX, data modeling, slicers & drill-through  
 - **Excel** — Power Query, pivot tables, advanced formulas, VBA  
-- **Machine Learning** — Basic clustering, classification & recommendation experiments  
+- **Machine Learning** — Basic clustering, classification & recommendation experiments
+- ![image alt]([image_url](https://github.com/rubyaddo789/Ruby-Analyst/blob/866880030e14238f5f208e5e8f483c3fd6ac9fb9/icons.png)) 
 
 ### 📊 Featured Projects
 
